@@ -13,7 +13,7 @@ I'm a **Full-stack Web Developer** specializing in the **MERN stack** & **Angula
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![REST API](https://img.shields.io/badge/-REST%20APIs-FF6F00?logo=api&logoColor=white&style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6F00?logo=api&logoColor=white&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/-Microservices-FF4F1F?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
@@ -22,7 +22,7 @@ I'm a **Full-stack Web Developer** specializing in the **MERN stack** & **Angula
 
 ## 🛠️ Recent Project
 
-- **[RoastAI](https://github.com/yashje/RoastAI-Frontend)**: AI-powered real-time chat
+- **[RoastAI](https://github.com/yashdev99/RoastAI-Frontend)**: AI-powered real-time chat
 
 ---
 
@@ -30,11 +30,11 @@ I'm a **Full-stack Web Developer** specializing in the **MERN stack** & **Angula
 
 <div align="center">
 
-<a href="https://github.com/yashje">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashje&show_icons=true&hide_border=true&bg_color=F9F9F9&title_color=2088FF&icon_color=38B2AC&text_color=24292F" alt="Yashje's GitHub Stats" height="170"/>
+<a href="https://github.com/yashdev99">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashdev99&show_icons=true&hide_border=true&bg_color=F9F9F9&title_color=2088FF&icon_color=38B2AC&text_color=24292F" alt="Yashdev99's GitHub Stats" height="170"/>
 </a>
-<a href="https://github.com/yashje">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashje&layout=compact&hide_border=true&bg_color=F9F9F9&title_color=61DAFB&text_color=24292F" alt="Top Languages" height="170"/>
+<a href="https://github.com/yashdev99">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdev99&layout=compact&hide_border=true&bg_color=F9F9F9&title_color=61DAFB&text_color=24292F" alt="Top Languages" height="170"/>
 </a>
 
 </div>
@@ -54,4 +54,4 @@ I'm a **Full-stack Web Developer** specializing in the **MERN stack** & **Angula
 > Quick learner, problem solver, and always up for a challenge.  
 > I enjoy transforming complex requirements into seamless user experiences!
 
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) 
+![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
